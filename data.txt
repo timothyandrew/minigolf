@@ -1,0 +1,8 @@
+course "NCSU-Express" 18
+begin_hole
+name "Easy as Pi"
+tile 1 4 -.5 0 2 .5 0 2 .5 0 -2 -.5 0 -2 0 0 0 0
+tee 1 0 0 1.75
+cup 1 0 0 -1.75
+par 2
+end_hole
